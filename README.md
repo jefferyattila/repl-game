@@ -1,5 +1,7 @@
 ## REPL Game
 
+## Candice's REPL Game is an action pack adventure game.
+
 Let’s make a Ruby REPL game! We’ll be using everything you know about Ruby variables and flow control.
 
 Here’s some sample code to get you going.
