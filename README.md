@@ -1,6 +1,6 @@
 ## REPL Game
 
-## Candice's REPL Game is an action pack adventure game.
+### Candice's REPL Game is an action pack adventure game.
 
 Let’s make a Ruby REPL game! We’ll be using everything you know about Ruby variables and flow control.
 
@@ -31,4 +31,3 @@ end
 * Your game should have at least 3 steps.
 * Some questions should depend on the response to previous questions (“Choose your own adventure” style)
 * Your code should not throw an error while running.
-* Push yourself out of your comfort zone to explore new methods and techniques.
